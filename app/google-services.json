@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998746423356",
+    "firebase_url": "https://eattapp-62ea1.firebaseio.com",
+    "project_id": "eattapp-62ea1",
+    "storage_bucket": "eattapp-62ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998746423356:android:136586442b1969b7d98339",
+        "android_client_info": {
+          "package_name": "com.example.eattapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998746423356-jnvcvtd7sf17r6tqdqn7uap7fnl6q7uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eattapp",
+            "certificate_hash": "a069c1ca73221896f94e7c3e3c4955c11cb210e7"
+          }
+        },
+        {
+          "client_id": "998746423356-28q4qng5kk944atf92ikum9vsj9c6qd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1cYIiWkiv2I36tRWxRkaAXXMuh7WO7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998746423356-28q4qng5kk944atf92ikum9vsj9c6qd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
